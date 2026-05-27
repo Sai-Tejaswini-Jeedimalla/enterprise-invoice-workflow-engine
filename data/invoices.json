@@ -1,0 +1,142 @@
+[
+    {
+        "invoice_id": "INV1001",
+        "vendor": "Tesla",
+        "amount": 7800.50,
+        "submitted_by": "Alice",
+        "date": "2026-05-01"
+    },
+    {
+        "invoice_id": "INV1002",
+        "vendor": "Apple",
+        "amount": 1500.50,
+        "submitted_by": "Bob",
+        "date": "2026-05-02"
+    },
+    {
+        "invoice_id": "INV1003",
+        "vendor": "Amazon",
+       
+        "submitted_by": "Charlie",
+        "date": "2026-05-03"
+    },
+    {
+        "invoice_id": "INV1004",
+        "vendor": "Microsoft",
+        "amount": "5600.00",
+        "submitted_by": "David",
+        "date": "2026-05-04"
+    },
+    {
+        "invoice_id": "INV1005",
+        "vendor": "Nvidia",
+        "amount": 3000.99,
+        "submitted_by": "Eve",
+        "date": "2026-05-05"
+    },
+    {
+        "invoice_id": "INV1006",
+        "vendor": "Google",
+        "amount": 9800.20,
+        "submitted_by": "Frank",
+        "date": "2026-05-06"
+    },
+    {
+        "invoice_id": "INV1007",
+        "vendor": "Meta",
+        "amount": 2200.00,
+        "submitted_by": "Grace",
+        "date": "2026-05-07"
+    },
+    {
+        "invoice_id": "INV1008",
+        "vendor": "Intel",
+        "amount": 1400.40,
+        "submitted_by": "Hannah",
+        "date": "2026-05-08"
+    },
+    {
+        "invoice_id": "INV1009",
+        "vendor": "Oracle",
+        "amount": 6700.10,
+        "submitted_by": "Ian",
+        "date": "2026-05-09"
+    },
+    {
+        "invoice_id": "INV1010",
+        "vendor": "Cisco",
+        "amount": 800.00,
+        "submitted_by": "Jack",
+        "date": "2026-05-10"
+    },
+    {
+        "invoice_id": "INV1011",
+        "vendor": "IBM",
+        "amount": 4300.00,
+        "submitted_by": "Kara",
+        "date": "2026-05-11"
+    },
+    {
+        "invoice_id": "INV1012",
+        "vendor": "Adobe",
+        "amount": 1500.25,
+        "submitted_by": "Liam",
+        "date": "2026-05-12"
+    },
+    {
+        "invoice_id": "INV1013",
+        "vendor": "PayPal",
+        "amount": 2750.80,
+        "submitted_by": "Mia",
+        "date": "2026-05-13"
+    },
+    {
+        "invoice_id": "INV1014",
+        "vendor": "Spotify",
+        "amount": 990.00,
+        "submitted_by": "Noah",
+        "date": "2026-05-14"
+    },
+    {
+        "invoice_id": "INV1015",
+        "vendor": "Salesforce",
+        "amount": 8200.00,
+        "submitted_by": "Olivia",
+        "date": "2026-05-15"
+    },
+    {
+        "invoice_id": "INV1016",
+        "vendor": "Uber",
+        "amount": 3100.60,
+        "submitted_by": "Paul",
+        "date": "2026-05-16"
+    },
+    {
+        "invoice_id": "INV1017",
+        "vendor": "Airbnb",
+        "amount": 4600.00,
+        "submitted_by": "Quinn",
+        "date": "2026-05-17"
+    },
+    {
+        "invoice_id": "INV1018",
+        "vendor": "Shopify",
+        "amount": 5100.45,
+        "submitted_by": "Rachel",
+        "date": "2026-05-18"
+    },
+    {
+        "invoice_id": "INV1019",
+        "vendor": "Slack",
+        "amount": 1250.00,
+        "submitted_by": "Sam",
+        "date": "2026-05-19"
+    },
+    {
+        "invoice_id": "INV1020",
+        "vendor": "Zoom",
+        "amount": 980.90,
+        "submitted_by": "Tina",
+        "date": "2026-05-20"
+    }
+]
