@@ -48,7 +48,10 @@ Workflow Metrics + Audit Logs
 ```
 
 ---
+# Architecture Diagram
 
+![Architecture Diagram](docs/architecture.png)
+---
 # Architecture Design
 
 The system follows separation-of-concerns architecture:

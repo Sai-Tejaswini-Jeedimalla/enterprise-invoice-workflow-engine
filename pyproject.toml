@@ -1,3 +1,32 @@
+# ==========================================
+# THE ENGINE BUILDER
+# ==========================================
+[build-system]
+# Tells your computer what tools it needs to package your code
+requires = ["setuptools>=61.0.0", "wheel"]
+# Specifies the exact internal engine that prepares your files for installation
+build-backend = "setuptools.build_meta"
+
+
+# ==========================================
+# THE PROJECT IDENTITY
+# ==========================================
 [project]
-name = "AI-AUTOMATION-LAB"
+# The official name of your package inside your virtual environment
+name = "automation_framework"
+# Your software's current version number for tracking updates
 version = "0.1.0"
+# A list of external libraries (like pytest) your code needs to run (currently empty)
+dependencies = []
+
+
+# ==========================================
+# THE FILE RADAR (THE ACTUAL BUG FIX)
+# ==========================================
+[tool.setuptools.packages.find]
+# Tells the file scanner to start hunting from your main project folder
+where = ["."]
+# Explicitly tells the scanner to look for folders starting with "src" or "test"
+include = ["src*", "test*"]
+# FORCED DETECTOR: Makes Python read your folders even if they don't have __init__.py files
+namespaces = true
